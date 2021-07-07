@@ -22,4 +22,5 @@ public class GameGenre {
     @Column(name = "genre")
     private String genre;
 
+
 }
